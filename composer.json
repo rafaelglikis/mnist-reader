@@ -7,7 +7,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1",
-        "ext-gd": "*"
+        "ext-gd": "*",
         "ext-zlib": "*"
     },
     "authors": [
