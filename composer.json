@@ -1,0 +1,24 @@
+{
+    "name": "rafaelglikis/mnist-reader",
+    "type": "library",
+    "description": "Reader for MNIST dataset",
+    "keywords": ["mnist", "crawling", "scraper", "crawler"],
+    "homepage": "https://github.com/rafaelglikis/mnist-reader",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1",
+        "ext-gd": "*"
+        "ext-zlib": "*"
+    },
+    "authors": [
+        {
+            "name": "Rafael Glikis",
+            "email": "rafaelglikis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MnistReader\\": "src/"
+        }
+    }
+} 
