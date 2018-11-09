@@ -2,7 +2,7 @@
     "name": "rafaelglikis/mnist-reader",
     "type": "library",
     "description": "Reader for MNIST dataset",
-    "keywords": ["mnist", "crawling", "scraper", "crawler"],
+    "keywords": ["mnist"],
     "homepage": "https://github.com/rafaelglikis/mnist-reader",
     "license": "MIT",
     "require": {
